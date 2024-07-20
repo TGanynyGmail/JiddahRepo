@@ -15,4 +15,16 @@
         xsi:type="archimate:Capability"
         href="Capability_id-cb89badae258468b9d6e59f3f68363f6.xml#id-cb89badae258468b9d6e59f3f68363f6"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-49dcd317091a4af3803c0b95066e0453">
+    <bounds
+        x="104"
+        y="182"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-6de17ee5fa3e4ccbb1c51b89ccb3e2df.xml#id-6de17ee5fa3e4ccbb1c51b89ccb3e2df"/>
+  </children>
 </archimate:ArchimateDiagramModel>
