@@ -6,15 +6,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-989e3694a355470caba2a1687d357fd8">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-26e4ab327f044cceb059a79b1d8f0b98"
-        source="id-989e3694a355470caba2a1687d357fd8"
-        target="id-fa76a733ea66413eac71143ae65fd349">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_id-44fdcca44c8c4dfda30a0cee5fb7a7a7.xml#id-44fdcca44c8c4dfda30a0cee5fb7a7a7"/>
-    </sourceConnections>
     <bounds
         x="319"
         y="59"
@@ -26,15 +17,14 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-fa76a733ea66413eac71143ae65fd349"
-      targetConnections="id-26e4ab327f044cceb059a79b1d8f0b98">
+      id="id-49dcd317091a4af3803c0b95066e0453">
     <bounds
-        x="529"
-        y="62"
+        x="104"
+        y="182"
         width="120"
         height="55"/>
     <archimateElement
-        xsi:type="archimate:CourseOfAction"
-        href="CourseOfAction_id-2f54aa01e0bc44b38d6f4d10d8f80074.xml#id-2f54aa01e0bc44b38d6f4d10d8f80074"/>
+        xsi:type="archimate:Capability"
+        href="Capability_id-6de17ee5fa3e4ccbb1c51b89ccb3e2df.xml#id-6de17ee5fa3e4ccbb1c51b89ccb3e2df"/>
   </children>
 </archimate:ArchimateDiagramModel>
